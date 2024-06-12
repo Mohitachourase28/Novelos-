@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "genre": "Leadership",
+    "title": "Lean In: Women, Work, and the Will to Lead",
+    "price": 0,
+    "image": "/images/bookimg2.jpg",
+    "category": "Free",
+    "pdf": "/pdfs/leanin.pdf"
+  }
+  ,
+  {
+    "id": 2,
+    "genre": "Story",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "price": 0,
+    "category": "biography",
+    "image": "/images/bookimg2.jpg"
+  },
+  {
+    "id": 3,
+    "genre": "Psychology",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "price": 0,
+    "category": "Free",
+    "image": "/images/bookimg2.jpg"
+  },
+  {
+    "id": 4,
+    "genre": "Decision-making",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "price": 0,
+    "category": "Free",
+    "image": "/images/bookimg2.jpg"
+  },
+  {
+    "id": 5,
+    "genre": "Finances",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "price": 0,
+    "category": "Free",
+    "image": "/images/bookimg2.jpg"
+  },
+  {
+    "id": 6,
+    "genre": "Negotiation",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "price": 0,
+    "category": "Free",
+    "image": "/images/bookimg2.jpg"
+  },
+  {
+    "id": 7,
+    "genre": "Business",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "price": 0,
+    "category": "Free",
+    "image": "/images/bookimg2.jpg"
+  },
+  {
+    "id": 8,
+    "genre": "Friction",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "price": 0,
+    "category": "Free",
+    "image": "/images/bookimg2.jpg"
+  },
+  {
+    "id": 9,
+    "genre": "Communication",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "price": 0,
+    "category": "Free",
+    "image": "/images/bookimg2.jpg"
+  },
+  {
+    "id": 10,
+    "genre": "Manipulation",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "price": 0,
+    "category": "mind game",
+    "image": "/images/bookimg2.jpg"
+  }
+]

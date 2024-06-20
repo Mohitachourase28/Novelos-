@@ -41,8 +41,8 @@ app.use(cors({
 app.use(express.json()); // Body parsing middleware
 
 // Define Routes
-app.use("/book", bookRoute);
-app.use("/user", userRoute);
+app.use("/api/book", bookRoute);
+app.use("/api/user", userRoute);
 
 // Define routes for /api
 // app.get('/api', (req, res) => {

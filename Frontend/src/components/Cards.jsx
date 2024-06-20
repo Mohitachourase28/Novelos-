@@ -11,7 +11,7 @@ function Cards({ item, customImage }) {
           <img
             src={customImage || item.image}
             alt={item.name}
-            className="w-full h-64 object-cover"
+            className="w-full h-70 object-cover"
           />
         </figure>
         <div className="card-body">
